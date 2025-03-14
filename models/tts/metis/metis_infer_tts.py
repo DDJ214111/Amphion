@@ -35,8 +35,8 @@ if __name__ == "__main__":
     )
 
     prompt_speech_path = "./models/tts/metis/wav/tts/prompt.wav"
-    prompt_text = "Well, a growing number of people from ethnic backgrounds are getting bored of all these white male superheroes they can't relate to. And they're hungry for characters a little closer to home, or relevant to their own lives."
-    text = "That’s true. But times have changed, and comic books these days often blur the line between right and wrong, making things unclear. Superheroes don't always do the thing and struggle with everyday problems like you and me."
+    prompt_text = "코덱스 연금 급등 차트 탑쓰리. 연금투자, 신뢰가 중요하니까. 연금은 1등이 만든 삼성 코덱스ETF로"
+    text = "코덱스 연금 급등 차트 탑쓰리. 연금투자, 신뢰가 중요하니까. 연금은 1등이 만든 삼성 코덱스ETF로"
 
     n_timesteps = 25
     cfg = 2.5
